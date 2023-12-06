@@ -52,13 +52,14 @@ body {
     height: 28%;
     background-image: url("./images/illustration-hero.svg");
     background-size: cover;
+    margin-bottom: 1.5em;
 }
 
 .card__text {
     text-align: center;
-    margin-bottom: 2em;
+    padding: 0.1px;
 }
-
+    
 .card__title {
     font-size: 1.2em;
     font-weight: 900;
@@ -66,7 +67,7 @@ body {
 }
 
 .card__paragraph {
-    line-height: 1.7;
+    line-height: 1.5;
     font-weight: 500;
     color: var(--Desaturated-blue);
     padding: 0 1.8em;
@@ -78,6 +79,7 @@ body {
     text-align: center;
     align-items: center;
     padding: 1em;
+    margin-bottom: 0.5em;
 }
     
 .card__planning {
@@ -129,7 +131,7 @@ body {
 
 .card__footer a {
     text-decoration: none;
-    font-weight: 500px;
+    font-weight: 700px;
     color: var(--Desaturated-blue);
 }
 
@@ -166,5 +168,6 @@ body {
         margin-bottom: 1em;
     }
 }
+
 
     
