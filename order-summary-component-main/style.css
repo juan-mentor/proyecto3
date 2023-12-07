@@ -154,6 +154,10 @@ body {
         height: 31%;
     }
 
+    .card__text {
+        margin-bottom: 2em;
+    }
+
     .card__title {
         font-size: 1.8em;
     }
@@ -165,7 +169,7 @@ body {
 
     .card__plan {
         height: 90px;
-        margin-bottom: 1em;
+        margin-bottom: 2em;
     }
 }
 
