@@ -25,8 +25,8 @@ Users should be able to:
 ### Screenshot
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/juan-mentor/proyecto3/tree/main/order-summary-component-main]
+- Live Site URL: [https://juan-mentor.github.io/proyecto3/]
 
 ## My process
 
